@@ -1,0 +1,26 @@
+{
+  "business": "McCoy Carpentry LLC",
+  "slogan": "Hard Work, Done Right!",
+  "phone": "(941) 303-2102",
+  "website": "https://mccoycarpentry.net",
+  "email": "McCoyCarpentry2026@outlook.com",
+  "service_area": [
+    "Cincinnati OH",
+    "Clermont County OH",
+    "Northern Kentucky",
+    "Southeastern Indiana"
+  ],
+  "services": [
+    "interior doors",
+    "trim and baseboards",
+    "crown molding",
+    "cabinets",
+    "decks",
+    "drywall repair"
+  ],
+  "facebook_page_id": "1013779581815640",
+  "metricool_brand_id": "7466901",
+  "group_posting_enabled": false,
+  "auto_commenting_enabled": false,
+  "real_project_photos_required": true
+}
