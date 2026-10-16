@@ -34,3 +34,11 @@ Updated 2026-10-16. iPhone-only owner. Target: $0 cash spend.
 
 ## Next priority
 Validate the existing workflow, collect approved project photos/business card, extend Metricool content schedule, and investigate supported group-access pathways.
+
+## Verified existing implementations discovered Oct 16, 2026
+- Posting Station (https://postingstation.app/): vendor advertises free one-Page, five-group-posts/day Chrome extension using authenticated browser session. Not independently tested on owner's account.
+- Group Posting PRO (https://groupposting.com/): vendor advertises free browser-session-based group posting, schedules, monitoring. Features and account safety not independently verified.
+- SimplePoster (https://chromewebstore.google.com/detail/simpleposter-facebook-gro/filabgecmeglnbijljkhpippijdgkpjc): advertises recurring group campaigns; free trial only.
+- Playwright official persistent browser profile: https://playwright.dev/docs/api/class-browsertype ; saved profile does not guarantee Facebook session longevity or permission to automate.
+- Browserbase contexts: https://www.browserbase.com/templates/context ; managed persistent sessions but cost/availability may conflict with $0 requirement.
+- Recommended proof-of-concept: remotely accessible desktop Chrome with one authenticated profile, test Posting Station free tier on ONE group that expressly permits advertising; separately verify Page identity, post approval, schedule persistence, iPhone remote access, and whether any supported integration permits ChatGPT-driven orchestration. Do not claim a Chrome extension alone grants ChatGPT direct control.
